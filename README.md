@@ -1,6 +1,5 @@
-# Dynamics of the Tumor-Host Interactions from a Force-Field Potential
-
 <div align="center">
+  <h1>Dynamics of the Tumor-Host Interactions from a Force-Field Potential</h1>
   <img src="./fig/AB.png" alt="sz=10,ss=0.1"/>
 </div>
 
